@@ -466,6 +466,8 @@ img{
         border: 3px solid black;
         align-items: center;
         justify-content: center;
+	margin-right: 0px;
+	margin-left: 0px;
     }
     .title{
 	margin-bottom: 40px;
