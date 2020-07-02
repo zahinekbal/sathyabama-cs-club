@@ -306,10 +306,10 @@ img{
 }
 .ourteam_wrapper .team_member h2{
     color: black;
+    text-align: center;
+    align-items: center;
     font-size: 1.7rem;
-   text-align: center;
-   align-items: center;
-   text-shadow: 2px 2px 4px black;
+    text-shadow: 2px 2px 4px black;
 }
 .ourteam_wrapper .team_member h3{
     font-size: 2rem;
@@ -454,6 +454,10 @@ img{
         display: flex;
         flex-direction: column;
     }
+   .ourteam_wrapper .team_member p{
+    font-size: 1rem;
+    color: black
+    }
     .ourteam_wrapper .team_member{
         margin-top: 20px;
         width: 100%;
@@ -465,7 +469,7 @@ img{
         justify-content: center;
     }
 	.title{
-		margin-top: 30px;
+		margin-top: 60px;
 	}
     .text-center{
         text-align: center;
