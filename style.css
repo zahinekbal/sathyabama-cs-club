@@ -239,7 +239,7 @@ img{
 }
 .contact{
     background-color: #f6f5f4;
-    height: 110vh;
+    height: 90vh;
 }
 .text-center{
     text-align: center;
@@ -444,7 +444,7 @@ img{
     }
    .contact{
     background-color: #f6f5f4;
-    height: 110vh;
+    height: 120vh;
     }
     .form{
         max-width: 100px;
@@ -473,9 +473,6 @@ img{
         letter-spacing: 0.1rem;
         padding-bottom: 50px;
         margin-top: 0;
-    }
-    .contact{
-        height: 90vh;
     }
     .logo img{
         width: 100%;
