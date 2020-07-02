@@ -345,7 +345,6 @@ img{
     text-shadow: 4px 4px 8px black;
     font-size: 1.5rem;
 }
-/*media query for tablet */
 @media only screen and (min-width: 765px) {
     #activities .activities-item{
         flex-direction: row;
@@ -444,7 +443,7 @@ img{
     }
    .contact{
     background-color: #f6f5f4;
-    height: 120vh;
+    height: 100vh;
     }
     .form{
         max-width: 100px;
@@ -468,8 +467,8 @@ img{
         align-items: center;
         justify-content: center;
     }
-	.title{
-		margin-top: 60px;
+    .title{
+	margin-bottom: 40px;
 	}
     .text-center{
         text-align: center;
